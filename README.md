@@ -1,3 +1,3 @@
 # Renaissance
 
-Just a mini project from a Nanodegree
+Just a mini pet project. No high expectations or anything of the sort
